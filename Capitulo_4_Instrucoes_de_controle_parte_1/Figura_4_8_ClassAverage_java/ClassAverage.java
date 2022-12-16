@@ -2,7 +2,7 @@
 pagina 90
 // Figura 4.8: ClassAverage.java
 // Resolvendo o problema da média da classe usando a repetição controlada por contador.*/
-package Capitulo_4_Instrucoes_de_controle_parte_1.Figura_4_4_Student_java;
+package Capitulo_4_Instrucoes_de_controle_parte_1.Figura_4_8_ClassAverage_java;
 
 import java.util.Scanner;
 
