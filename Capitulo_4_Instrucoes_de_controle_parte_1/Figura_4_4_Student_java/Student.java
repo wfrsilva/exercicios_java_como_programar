@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 87
 // Figura 4.4: Student.java
 // Classe Student que armazena o nome e a média de um aluno.*/

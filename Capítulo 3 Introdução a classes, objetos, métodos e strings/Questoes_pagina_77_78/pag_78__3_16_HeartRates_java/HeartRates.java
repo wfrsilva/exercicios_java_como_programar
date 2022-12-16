@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 78
 3.16 (Calculadora de frequência cardíaca alvo) Ao fazer exercícios físicos, você pode utilizar um monitor de frequência cardíaca para ver
 se sua frequência permanece dentro de um intervalo seguro sugerido pelos seus treinadores e médicos. Segundo a American Heart Association

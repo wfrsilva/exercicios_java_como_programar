@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 64
 // Figura 3.5: Account.java
 // a classe Account com um construtor que inicializa o nome. */

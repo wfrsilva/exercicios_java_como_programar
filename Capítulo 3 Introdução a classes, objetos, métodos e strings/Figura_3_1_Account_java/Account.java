@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 57
 // Figura 3.1: Account.java
 // Classe Account que contém uma variável de instância name

@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 73
 Exercício do estudo de caso GUI e imagens gráficas
 3.1 Modifique o programa de adição na Figura 2.7 (Pag 36 - Addition.java) para utilizar entrada e saída baseadas em caixas de diálogo com os métodos

@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 68
 // Figura 3.9: AccountTest.Java
 // Entrada e saída de números de ponto flutuante com objetos Account. */

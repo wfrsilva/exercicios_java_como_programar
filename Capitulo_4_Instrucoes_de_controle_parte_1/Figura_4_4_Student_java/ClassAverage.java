@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 90
 // Figura 4.8: ClassAverage.java
 // Resolvendo o problema da média da classe usando a repetição controlada por contador.*/

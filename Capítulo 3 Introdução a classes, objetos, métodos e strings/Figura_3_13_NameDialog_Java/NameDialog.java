@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 72
 // Figura 3.13: NameDialog.Java
 // Obtendo a entrada de usuário a partir de um diálogo. */

@@ -1,4 +1,4 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição.pdf 
+/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 65
 // Figura 3.6: AccountTest.Java
 // Usando o construtor de Account para inicializar a instância name
