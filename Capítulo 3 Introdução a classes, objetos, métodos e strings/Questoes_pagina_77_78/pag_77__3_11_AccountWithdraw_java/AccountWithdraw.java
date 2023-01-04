@@ -7,7 +7,7 @@ de uma Account. Assegure que o valor de débito não exceda o saldo de Account. 
 e o método deve imprimir uma mensagem que indica "Withdrawal amount exceeded account balance" [Valor de débito
 excedeu o saldo da conta]. Modifique a classe AccountTest (Figura 3.9) para testar o método withdraw. */
 
-package Figura_3_8_Account_java.pag_77_3_11_AccountWithdraw_java;
+package Questoes_pagina_77_78.pag_77__3_11_AccountWithdraw_java;
 
 public class AccountWithdraw {
 
@@ -41,7 +41,7 @@ public class AccountWithdraw {
         return balance;
     }//getBalance
 
-    public void setName(String Name){
+    public void setName(String name){
         this.name = name;
     }//setName
 

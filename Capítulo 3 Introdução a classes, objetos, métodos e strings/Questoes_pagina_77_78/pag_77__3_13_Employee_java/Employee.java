@@ -7,7 +7,7 @@ sobrenome (tipo String) e um salário mensal (double). Forneça um construtor qu
 método set e um get para cada variável de instância. Se o salário mensal não for positivo, não configure seu valor. Escreva um aplicativo de
 teste chamado EmployeeTest que demonstre as capacidades da classe Employee. Crie dois objetos Employee e exiba o salário anual
 de cada objeto. Então dê a cada Employee um aumento de 10% e exiba novamente o salário anual de cada Employee. */
-package Questoes_pagina_77_78.pag_77__3_13_Employee;
+package Questoes_pagina_77_78.pag_77__3_13_Employee_java;
 
 public class Employee {
 
