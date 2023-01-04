@@ -8,7 +8,7 @@ package Capitulo_4_Instrucoes_de_controle_parte_1.Figura_4_18_DrawPanel_java;
 import java.awt.Graphics;
 import javax.swing.JPanel;
 
-public class DrawPanel {
+public class DrawPanel extends JPanel{
 
     public void paintComponent(Graphics g){
         super.paintComponent(g);
