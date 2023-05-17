@@ -1,6 +1,6 @@
-package Capitulo_5_Instrucoes_de_controle_parte_2.Figura_5_14_ContinueTest_java;
 // Figura 5.14: ContinueTest.java
 // Instrução continue que termina uma iteração de uma instrução for.
+package Capitulo_5_Instrucoes_de_controle_parte_2.Figura_5_14_ContinueTest_java;
 
 public class ContinueTest{
     public static void main (String [] args){
