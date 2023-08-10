@@ -7,19 +7,19 @@ Escreva um aplicativo que calcula o produto dos números inteiros ímpares de 1 
 Write an application that calculates the product of odd integers from 1 to 15.*/
 package Exercicio_5_12_ProductOdds_java;
 
-public class ProductOdds {
+public class ProdutosImpares {
 
     public static void main(String[] args) {
-        int result = 0;
+        int resultado = 0;
 
         for (int i = 0; i <= 15; i++) {
             if (i % 2 != 0) {
-                System.out.printf("%d + %d = %d%n", i, result, (result + i));
-                result = result + i;
+                System.out.printf("%d + %d = %d%n", i, resultado, (resultado + i));
+                resultado = resultado + i;
             } // if
         } // for
 
-        System.out.println("\nThe sum of odd numbers from 1 to 15 is " + result);
+        System.out.println("\nA soma dos impares de 1 a 15 é " + resultado);
 
     }// main
 
