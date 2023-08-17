@@ -7,23 +7,23 @@ de juros de 5%, 6%, 7%, 8%, 9% e 10%. Utilize um loop for para variar a taxa de 
 5.14 (Modified compound interest program) Modify the compound interest application of Figure 5.6 (page 126) to repeat the steps for rates
 interest rates of 5%, 6%, 7%, 8%, 9% and 10%. Use a for loop to vary the interest rate.*/
 
-public class Interest {
+public class JurosCompostos {
 
     public static void main(String[] args) {
-        double amount;
+        double quantia;
         double principal = 1000.0;
-        double rate;
+        double taxa;
 
-        for (int r = 5; r <= 10; r++) {
+        for (int t = 5; t <= 10; t++) {
 
-            rate = (double) r / 100.0;
+            taxa = (double) t / 100.0;
 
-            System.out.printf("%n%s%20s%10s %n", "Year", "Amount on deposit", "Rate");
+            System.out.printf("%n%s%20s%10s %n", "Ano", "Quantia deposito", "Taxa");
 
-            for (int year = 1; year <= 5; ++year) {
+            for (int ano = 1; ano <= 5; ++ano) {
 
-                amount = principal * Math.pow(1.0 + rate, year);
-                System.out.printf("%4d%,20.2f%,10.2f%n", year, amount, rate);
+                quantia = principal * Math.pow(1.0 + taxa, ano);
+                System.out.printf("%4d%,20.2f%,10.2f%n", ano, quantia, taxa);
 
             } // for
 
@@ -31,4 +31,4 @@ public class Interest {
 
     }// main
 
-}// Interest
+}// JurosCompostos
