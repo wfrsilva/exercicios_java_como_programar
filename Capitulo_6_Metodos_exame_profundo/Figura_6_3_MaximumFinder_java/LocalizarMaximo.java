@@ -13,14 +13,14 @@ public class LocalizarMaximo {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        System.out.print("Insira tr\u00EAs valores de ponto flutuante separados por espa\u00E7os:");
+        System.out.print("Insira tr\u00EAs valores de ponto flutuante separados por espa\u00E7os: ");
         double numero1 = entrada.nextDouble();
         double numero2 = entrada.nextDouble();
         double numero3 = entrada.nextDouble();
 
         double resultado = maximo(numero1, numero2, numero3);
 
-        System.out.println("Maximo eh: " + resultado);
+        System.out.println("Maximo \u00E9: " + resultado);
 
         entrada.close();
 
