@@ -53,7 +53,7 @@ public class RolarDados {
 
         } // for
 
-        System.out.println("Face\tFreqeuncy");
+        System.out.println("Face\tFrequencia");
         System.out.printf("1\t%d %n2\t%d %n3\t%d %n4\t%d %n5\t%d %n6\t%d %n",
                 frequencia1, frequencia2, frequencia3, frequencia4, frequencia5, frequencia6);
 
