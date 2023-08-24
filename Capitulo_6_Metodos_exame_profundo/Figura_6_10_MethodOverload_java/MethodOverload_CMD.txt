@@ -1,0 +1,25 @@
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>javac Figura_6_10_MethodOverload_java/MethodOverload.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Figura_6_10_MethodOverload_java/MethodOverload
+
+Called square with int argument: 7
+Square of integer 7 is 49
+
+Called square with double argument: 7,500000
+Square of double 7.5 is 56,250000
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>javac Figura_6_10_MethodOverload_java/OverloadMetodoerror: module not found: Figura_6_10_MethodOverload_java
+error: Class names, 'Figura_6_10_MethodOverload_java/OverloadMetodo', are only accepted if annotation processing is explicitly requested
+2 errors
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>javac Figura_6_10_MethodOverload_java/OverloadMetodo.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Figura_6_10_MethodOverload_java/OverloadMetodo
+
+Raiz quadrada chamada com argumento int: 7
+Raiz quadrada do inteiro 7 é 49
+
+Raiz quadrada chamada com argumento double: 7,500000
+Raiz quadrada do Double 7.5 é 56,250000
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>
