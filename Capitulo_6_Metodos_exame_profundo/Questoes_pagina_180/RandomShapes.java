@@ -18,16 +18,19 @@ public class RandomShapes extends JPanel {
     public void paintComponent(Graphics g) {
 
         super.paintComponent(g);
+        for (int i = 0; i < 10; i++) {
 
-        Color rndColor = new Color(oneRGB(), oneRGB(), oneRGB());
-        g.setColor(rndColor);
+            Color rndColor = new Color(oneRGB(), oneRGB(), oneRGB());
+            g.setColor(rndColor);
 
-        if (isOval()) {
-            g.fillOval(onePosition(), onePosition(), oneSize(), oneSize());
-        } // if
-        else {
-            g.fillRect(onePosition(), onePosition(), oneSize(), oneSize());
-        } // else
+            if (isOval()) {
+                g.fillOval(onePosition(), onePosition(), oneSize(), oneSize());
+            } // if
+            else {
+                g.fillRect(onePosition(), onePosition(), oneSize(), oneSize());
+            } // else
+
+        } // for
 
     } // paintComponent
 
