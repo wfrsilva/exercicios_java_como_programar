@@ -1,0 +1,11 @@
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>javac Questoes_pagina_184/Exercicio_6_6_Sphere_java//Esfera.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Questoes_pagina_184/Exercicio_6_6_Sphere_java/Esfera
+Insira o raio da esfera: 5
+O volume é 523,598776
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Questoes_pagina_184/Exercicio_6_6_Sphere_java/Esfera
+Insira o raio da esfera: 4
+O volume é 268,082573
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>

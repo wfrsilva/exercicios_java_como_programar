@@ -1,0 +1,20 @@
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>javac Questoes_pagina_184/Exercicio_6_6_Sphere_java/Sphere.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Questoes_pagina_184/Exercicio_6_6_Sphere_java/Sphere
+Enter radius of sphere: 4.0
+Exception in thread "main" java.util.InputMismatchException
+        at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+        at java.base/java.util.Scanner.next(Scanner.java:1602)
+        at java.base/java.util.Scanner.nextDouble(Scanner.java:2573)
+        at Questoes_pagina_184.Exercicio_6_6_Sphere_java.Sphere.main(Sphere.java:24)
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Questoes_pagina_184/Exercicio_6_6_Sphere_java/Sphere
+Enter radius of sphere: 4
+Volume is 268,082573
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Questoes_pagina_184/Exercicio_6_6_Sphere_java/Sphere
+Enter radius of sphere: 4,0
+Volume is 268,082573
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>
