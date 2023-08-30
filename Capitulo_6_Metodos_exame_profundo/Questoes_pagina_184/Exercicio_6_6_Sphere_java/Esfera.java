@@ -25,6 +25,8 @@ public class Esfera {
 
         System.out.printf("O volume \u00E9 %f%n", volumeEsfera(raio));
 
+        entrada.close();
+
     }// main
 
     public static double volumeEsfera(double raio) {

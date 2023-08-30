@@ -25,6 +25,8 @@ public class Sphere {
 
         System.out.printf("Volume is %f%n", sphereVolume(radius));
 
+        input.close();
+
     }// main
 
     public static double sphereVolume(double radius) {
