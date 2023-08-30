@@ -18,7 +18,7 @@ public class RandomShapes extends JPanel {
     public void paintComponent(Graphics g) {
 
         super.paintComponent(g);
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i <= 10; i++) {
 
             Color rndColor = new Color(oneRGB(), oneRGB(), oneRGB());
             g.setColor(rndColor);

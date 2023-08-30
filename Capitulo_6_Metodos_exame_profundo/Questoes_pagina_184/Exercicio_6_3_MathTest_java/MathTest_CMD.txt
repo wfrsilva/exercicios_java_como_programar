@@ -1,0 +1,27 @@
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>javac Questoes_pagina_184/Exercicio_6_3_MathTest_java/MathTest.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Questoes_pagina_184/Exercicio_6_3_MathTest_java/MathTest
+Math.abs(23.7) = 23,700000
+Math.abs(0.0) = 0,000000
+Math.abs(-23.7)= 23,700000
+Math.ceil(9.2) = 10,000000
+Math.ceil(-9.8) = -9,000000
+Math.cos(0.0) = 1,000000
+Math.exp(1.0) = 2,718282
+Math.exp(2.0) = 7,389056
+Math.floor(9.2) = 9,000000
+Math.floor(-9.8) = -10,000000
+Math.log(Math.E) = 1,000000
+Math.log(Math.E) * Math.log(Math.E) = 1,000000
+Math.max(2.3, 12.7) = 12,700000
+Math.max(-2.3, -2.7) = -2,300000
+Math.min(2.3, 12.7) = 2,300000
+Math.min(-2.3, -12,7) = -12,700000
+Math.pow(2.0, 7.0) = 128,000000
+Math.pow(9.0, 0.5) = 3,000000
+Math.sin(0.0) = 0,000000
+Math.sqrt(900.0) = 30,000000
+Math.tan(0.0) = 0,000000
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>
