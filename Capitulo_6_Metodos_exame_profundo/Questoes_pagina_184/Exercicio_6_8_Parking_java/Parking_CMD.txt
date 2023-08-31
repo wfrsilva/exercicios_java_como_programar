@@ -1,0 +1,15 @@
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>javac Questoes_pagina_184/Exercicio_6_8_Parking_java/Parking.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>java Questoes_pagina_184/Exercicio_6_8_Parking_java/Parking
+Enter total customers: 3
+Costumer 1 - Enter parking hours: 20
+Costumer 1: Tarife $ 10,00
+Costumer 2 - Enter parking hours: 21
+Costumer 2: Tarife $ 10,00
+Costumer 3 - Enter parking hours: 22
+Costumer 3: Tarife $ 10,00
+
+ Total Tickets: $ 30,00
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_6_Metodos_exame_profundo>
