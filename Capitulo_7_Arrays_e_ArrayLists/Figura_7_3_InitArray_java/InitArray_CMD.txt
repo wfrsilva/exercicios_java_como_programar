@@ -1,0 +1,17 @@
+Microsoft Windows [versão 10.0.22621.2283]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_3_InitArray_java/InitArray
+Index   Value
+    0      32
+    1      27
+    2      64
+    3      18
+    4      95
+    5      14
+    6      90
+    7      70
+    8      60
+    9      37
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>
