@@ -1,5 +1,5 @@
 /* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
-pagina 196
+pagina 197
 // Figura 7.5: SumArray.java
 // Calculando a soma dos elementos de um array. */
 package Figura_7_5_SumArray_java;
