@@ -1,0 +1,24 @@
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_7_RollDie_java/Rolldie.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_7_RollDie_java/Rolldie
+Face  Frequency
+   1    1000218
+   2    1001097
+   3     998971
+   4     999599
+   5     999491
+   6    1000624
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_7_RollDie_java/RolarDados.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_7_RollDie_java/RolarDados
+Face Frequencia
+   1    1000386
+   2     999907
+   3    1000779
+   4     999623
+   5     998970
+   6    1000335
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>
