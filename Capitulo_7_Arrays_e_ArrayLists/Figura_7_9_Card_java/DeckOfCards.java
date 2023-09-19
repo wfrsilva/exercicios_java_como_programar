@@ -1,7 +1,8 @@
 /* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 203
 // Figura 7.10: DeckOfCards.java
-// classe DeckOfCards representa um baralho.*/
+// classe DeckOfCards representa um baralho. Coletivo de Cartas = Baralho.
+// class DeckOfCards represents a deck of cards.*/
 package Figura_7_9_Card_java;
 
 import java.security.SecureRandom;

@@ -1,0 +1,44 @@
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_9_Card_java/Figura_7_9_1_Carta_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>EMBARALHAR ESTA DESLIGADO
+'EMBARALHAR' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_9_Card_java/Figura_7_9_1_Carta_java/BaralhoTeste
+As de Copas        Dois de Copas      Tres de Copas      Quatro de Copas
+Cinco de Copas     Seis de Copas      Sete de Copas      Oito de Copas
+Nove de Copas      Dez de Copas       Valete de Copas    Dama de Copas
+Rei de Copas       As de Espadas      Dois de Espadas    Tres de Espadas
+Quatro de Espadas  Cinco de Espadas   Seis de Espadas    Sete de Espadas
+Oito de Espadas    Nove de Espadas    Dez de Espadas     Valete de Espadas
+Dama de Espadas    Rei de Espadas     As de Ouros        Dois de Ouros
+Tres de Ouros      Quatro de Ouros    Cinco de Ouros     Seis de Ouros
+Sete de Ouros      Oito de Ouros      Nove de Ouros      Dez de Ouros
+Valete de Ouros    Dama de Ouros      Rei de Ouros       As de Paus
+Dois de Paus       Tres de Paus       Quatro de Paus     Cinco de Paus
+Seis de Paus       Sete de Paus       Oito de Paus       Nove de Paus
+Dez de Paus        Valete de Paus     Dama de Paus       Rei de Paus
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>LIGANDO EMBARALHAR
+'LIGANDO' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_9_Card_java/Figura_7_9_1_Carta_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_9_Card_java/Figura_7_9_1_Carta_java/BaralhoTeste
+Nove de Espadas    Cinco de Espadas   Sete de Espadas    Rei de Paus
+Oito de Espadas    Oito de Copas      Oito de Ouros      Valete de Paus
+Dois de Copas      Cinco de Paus      Dois de Espadas    Seis de Espadas
+Sete de Paus       Tres de Paus       As de Paus         Valete de Ouros
+Quatro de Espadas  Quatro de Copas    Dois de Paus       Dama de Espadas
+Tres de Espadas    Dez de Espadas     Nove de Copas      Seis de Copas
+Valete de Copas    Seis de Ouros      Dez de Copas       Seis de Paus
+Dez de Paus        Nove de Paus       Tres de Copas      Sete de Copas
+Quatro de Paus     As de Copas        Nove de Ouros      Dois de Ouros
+Valete de Espadas  Cinco de Ouros     Tres de Ouros      As de Ouros
+Oito de Paus       Rei de Ouros       Rei de Copas       Cinco de Copas
+Quatro de Ouros    Rei de Espadas     Dama de Paus       Sete de Ouros
+Dama de Ouros      Dama de Copas      As de Espadas      Dez de Ouros
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>

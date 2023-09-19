@@ -1,7 +1,8 @@
 /* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 203
 // Figura 7.9: Card.java
-// Classe Card representa uma carta de baralho.*/
+// Classe Card representa uma carta de baralho.
+// Card Class represents a playing card.*/
 package Figura_7_9_Card_java;
 
 public class Card {
