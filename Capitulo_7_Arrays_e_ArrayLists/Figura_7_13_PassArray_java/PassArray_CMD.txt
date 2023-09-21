@@ -1,0 +1,32 @@
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_13_PassArray_java\PassArray.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_13_PassArray_java\PassArray
+Error: Could not find or load main class Figura_7_13_PassArray_java\PassArray
+Caused by: java.lang.NoClassDefFoundError: Figura_7_13_PassArray_java\PassArray (wrong name: Figura_7_13_PassArray_java/PassArray)
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_13_PassArray_java\PassArray
+Error: Could not find or load main class Figura_7_13_PassArray_java\PassArray
+Caused by: java.lang.NoClassDefFoundError: Figura_7_13_PassArray_java\PassArray (wrong name: Figura_7_13_PassArray_java/PassArray)
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_13_PassArray_java\PassArray.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_13_PassArray_java/PassArray
+error: module not found: Figura_7_13_PassArray_java
+error: Class names, 'Figura_7_13_PassArray_java/PassArray', are only accepted if annotation processing is explicitly requested
+2 errors
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_13_PassArray_java/PassArray
+Effects of passingreference to entire array:
+The values of the original array are:
+   1   2   3   4   5
+
+ The values ofthe modified array are:
+   2   4   6   8   10
+
+ Effects of passing array element value:
+array[3] before modifyElement: 8
+Value of element in modifyElement: 16
+array[3] after modifyElement: 8
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>
