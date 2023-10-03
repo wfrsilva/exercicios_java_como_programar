@@ -1,0 +1,16 @@
+Microsoft Windows [versão 10.0.22621.2283]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_20_VarargsTest_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_20_VarargsTest_java/VarargsTest
+d1 = 10,0
+d2 = 20,0
+d3 = 30,0
+d4 = 40,0
+
+Average of d1 and d2 is 15,0
+Average of d1, d2 and d3 is 20,0
+Average of d1, d2, d3 and d4 is 25,0
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>
