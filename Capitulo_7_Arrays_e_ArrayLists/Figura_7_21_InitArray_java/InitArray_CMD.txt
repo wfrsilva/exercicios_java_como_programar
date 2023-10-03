@@ -1,0 +1,25 @@
+Microsoft Windows [versão 10.0.22621.2283]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_21_InitArray_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_21_InitArray_java/InitArray.java
+Error: Please re-enter the entire command, including
+an array size, initial value and increment.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_21_InitArray_java/InitArray.java 5 0 4
+Index   value
+    0       0
+    1       4
+    2       8
+    3      12
+    4      16
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_21_InitArray_java/InitArray.java 4 0 5
+Index   value
+    0       0
+    1       5
+    2      10
+    3      15
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>
