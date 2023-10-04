@@ -1,0 +1,15 @@
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_22_ArrayManipulations_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_22_ArrayManipulations_java/ArrayManipulations
+
+doubleArray: 0,2 3,4 7,9 8,4 9,3
+filledIntArray: 7 7 7 7 7 7 7 7 7 7
+intArray: 1 2 3 4 5 6
+intArrayCopy: 1 2 3 4 5 6
+
+intArray == intArrayCopy
+intArray != filledIntArray
+Found 5 at element 4 int intArray
+8763 not found in intArray
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>
