@@ -1,0 +1,12 @@
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_25_DrawRainbow_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_25_DrawRainbow_java/DrawRainbowTest
+
+
+
+
+
+
+
+GUI
