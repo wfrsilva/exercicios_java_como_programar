@@ -1,0 +1,13 @@
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Figura_7_24_ArrayListCollection_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Figura_7_24_ArrayListCollection_java/ArrayListCollection
+Display list contents with counter controlled loop:  yellow red
+Display list contents with enhanced for statement: yellow red
+List with two new elements:  yellow red green yellow
+remove first instance of yellow:  red green yellow
+Remove second list element (green):  red yellow
+"red" is in the list
+Size: 2
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>
+
