@@ -1,0 +1,29 @@
+Microsoft Windows [versão 10.0.22621.2283]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Questoes_pagina_235/Exercicio_7_12_ArrayDuplicate_java/*java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Questoes_pagina_235/Exercicio_7_12_ArrayDuplicate_java/ArrayDuplicate
+1/5 - Insert int (10 - 100): 9
+1/5 - Insert int (10 - 100): 8
+1/5 - Insert int (10 - 100): 110
+1/5 - Insert int (10 - 100): 10
+2/5 - Insert int (10 - 100): 30
+3/5 - Insert int (10 - 100): 30
+3/5 - Insert int (10 - 100): 30
+3/5 - Insert int (10 - 100): 30
+3/5 - Insert int (10 - 100): 20
+4/5 - Insert int (10 - 100): 20
+4/5 - Insert int (10 - 100): 50
+5/5 - Insert int (10 - 100): 50
+5/5 - Insert int (10 - 100): 100
+
+
+Final Array
+[0] - 10
+[1] - 30
+[2] - 20
+[3] - 50
+[4] - 100
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>

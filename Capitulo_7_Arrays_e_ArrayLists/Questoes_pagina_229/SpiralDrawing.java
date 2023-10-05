@@ -1,8 +1,6 @@
-/* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
-pagina 227
-// Figura 7.25: DrawRainbow.java
-// Desenhando um arco-íris com arcos e um array de cores.*/
-package Figura_7_25_DrawRainbow_java;
+//chatgpt nao consegui fazer
+
+package Questoes_pagina_229;
 
 import javax.swing.*;
 import java.awt.*;
@@ -10,7 +8,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class SpiralDrawing extends JPanel {
-    private int x, y; // Coordenadas iniciais
+    private int x, y; // Coordenadas iniciais (no centro do painel)
     private int length = 10; // Comprimento inicial
     private int direction = 0; // 0 = direita, 1 = baixo, 2 = esquerda, 3 = cima
 
@@ -61,6 +59,14 @@ public class SpiralDrawing extends JPanel {
 
         // Muda a direção
         direction = (direction + 1) % 4;
+    }
+
+    @Override
+    protected void paintComponent(Graphics g) {
+        super.paintComponent(g);
+        // Define as coordenadas iniciais no centro do painel
+        x = getWidth() / 2;
+        y = getHeight() / 2;
     }
 
     public static void main(String[] args) {
