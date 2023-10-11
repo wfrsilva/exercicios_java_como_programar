@@ -1,0 +1,46 @@
+Microsoft Windows [versão 10.0.22621.2283]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>javac Questoes_pagina_235/Exercicio_7_15_InitArrayArg_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Questoes_pagina_235/Exercicio_7_15_InitArrayArg_java/*.java
+Error: Could not find or load main class Questoes_pagina_235.Exercicio_7_15_InitArrayArg_java.*.java
+Caused by: java.lang.ClassNotFoundException: Questoes_pagina_235.Exercicio_7_15_InitArrayArg_java.*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Questoes_pagina_235/Exercicio_7_15_InitArrayArg_java/InitArrayArg
+Index   Value
+    0       0
+    1       0
+    2       0
+    3       0
+    4       0
+    5       0
+    6       0
+    7       0
+    8       0
+    9       0
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Questoes_pagina_235/Exercicio_7_15_InitArrayArg_java/InitArrayArg 5
+Index   Value
+    0       0
+    1       0
+    2       0
+    3       0
+    4       0
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>java Questoes_pagina_235/Exercicio_7_15_InitArrayArg_java/InitArrayArg 12
+Index   Value
+    0       0
+    1       0
+    2       0
+    3       0
+    4       0
+    5       0
+    6       0
+    7       0
+    8       0
+    9       0
+   10       0
+   11       0
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_7_Arrays_e_ArrayLists>

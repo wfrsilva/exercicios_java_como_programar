@@ -9,12 +9,12 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class SpiralDrawing extends JPanel {
+public class DrawRainbow extends JPanel {
     private int x, y; // Coordenadas iniciais
     private int length = 10; // Comprimento inicial
     private int direction = 0; // 0 = direita, 1 = baixo, 2 = esquerda, 3 = cima
 
-    public SpiralDrawing() {
+    public DrawRainbow() {
         Timer timer = new Timer(10, new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
