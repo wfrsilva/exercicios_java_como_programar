@@ -1,0 +1,42 @@
+
+D:\Google Drive\exercicios_java_como_programar>javac  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_4_ThisTest_java/*.java
+
+
+D:\Google Drive\exercicios_java_como_programar>dir Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_4_ThisTest_java\*.java
+ O volume na unidade D é CG_ST_10
+ O Número de Série do Volume é 2C0B-272F
+
+ Pasta de D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_4_ThisTest_java
+
+25/10/2023  22:12             1.910 ThisTest.java
+               1 arquivo(s)          1.910 bytes
+               0 pasta(s)   75.869.007.872 bytes disponíveis
+
+D:\Google Drive\exercicios_java_como_programar>dir Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_4_ThisTest_java\*.class
+ O volume na unidade D é CG_ST_10
+ O Número de Série do Volume é 2C0B-272F
+
+ Pasta de D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_4_ThisTest_java
+
+25/10/2023  22:13               892 SimpleTime.class
+25/10/2023  22:13               585 ThisTest.class
+               2 arquivo(s)          1.477 bytes
+               0 pasta(s)   75.869.007.872 bytes disponíveis
+
+D:\Google Drive\exercicios_java_como_programar>
+D:\Google Drive\exercicios_java_como_programar>
+D:\Google Drive\exercicios_java_como_programar>java  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_4_ThisTest_java/ThisTest
+
+
+D:\Google Drive\exercicios_java_como_programar>java  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_4_ThisTest_java/SimpleTime
+Error: Main method not found in class Capitulo_8_Classes_e_objetos_um_exame_mais_profundo.Figura_8_4_ThisTest_java.SimpleTime, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+D:\Google Drive\exercicios_java_como_programar>javac  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_4_ThisTest_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar>java  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_4_ThisTest_java/ThisTest
+this.toUniversalString() : 15:30:19
+    toUniversalString() : 15:30:19
+
+D:\Google Drive\exercicios_java_como_programar>
