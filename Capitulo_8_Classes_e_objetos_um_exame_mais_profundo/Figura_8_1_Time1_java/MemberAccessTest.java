@@ -10,7 +10,7 @@ public class MemberAccessTest {
         Time1 time = new Time1();
 
         time.hour = 7; // erro: hour tem acesso privado em Time1
-        time.minute = 15; // erro: minute tem acesso privado em Time1ÿÿ
+        time.minute = 15; // erro: minute tem acesso privado em Time1
         time.second = 30; // erro: second tem acesso privado em Time1
 
     }// main
