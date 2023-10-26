@@ -1,0 +1,30 @@
+Microsoft Windows [versão 10.0.22621.2428]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo>javac Figura_8_1_Time1_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo>javac Figura_8_1_Time1_java/*.java                                                                                                   javac Figura_8_1_Time1_java/*.java
+D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo>java Figura_8_1_Time1_java/Time1Test
+Error: Could not find or load main class Figura_8_1_Time1_java.Time1Test
+Caused by: java.lang.NoClassDefFoundError: Figura_8_1_Time1_java/Time1Test (wrong name: Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_1_Time1_java/Time1Test)
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo>cd ..
+
+D:\Google Drive\exercicios_java_como_programar>javac  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_1_Time1_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar>java  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_1_Time1_java/Time1Test.java
+After time object is created
+Universal time: 00:00:00
+Standard time: 12:00:00 AM
+
+After calling setTime
+Universal time: 13:27:06
+Standard time: 1:27:06 PM
+
+Exception hour, minute and/or second was out of range
+
+After calling setTime with invalid values
+Universal time: 13:27:06
+Standard time: 1:27:06 PM
+
+D:\Google Drive\exercicios_java_como_programar>
