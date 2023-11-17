@@ -1,5 +1,5 @@
 /* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
-pagina 262
+pagina 263
 // Figura 8.10: Book.java
 // Declarando um tipo enum com um construtor e campos de instância explícitos
 // e métodos de acesso para esses campos*/
