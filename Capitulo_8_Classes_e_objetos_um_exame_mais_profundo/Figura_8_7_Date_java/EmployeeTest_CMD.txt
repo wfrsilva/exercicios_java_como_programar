@@ -1,0 +1,27 @@
+
+D:\Google Drive\exercicios_java_como_programar>javac  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_7_Date_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar>dir  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_7_Date_java\
+ O volume na unidade D é CG_ST_10
+ O Número de Série do Volume é 2C0B-272F
+
+
+ Pasta de D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_7_Date_java
+
+16/11/2023  22:32    <DIR>          .
+16/11/2023  21:50    <DIR>          ..
+16/11/2023  22:36             1.905 Date.class
+16/11/2023  22:11             1.744 Date.java
+16/11/2023  22:36               971 Employee.class
+16/11/2023  22:25               965 Employee.java
+16/11/2023  22:36               957 EmployeeTest.class
+16/11/2023  22:34               550 EmployeeTest.java
+               6 arquivo(s)          7.092 bytes
+               2 pasta(s)   70.984.552.448 bytes disponíveis
+
+D:\Google Drive\exercicios_java_como_programar>java  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_7_Date_java/EmployeeTest
+Date object constructor for date 7/24/1949
+Date object constructor for date 3/12/1988
+Blue, Bob Hired: 3/12/1988 Birthday: 7/24/1949
+
+D:\Google Drive\exercicios_java_como_programar>
