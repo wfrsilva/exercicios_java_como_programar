@@ -1,8 +1,7 @@
 /* D:\Google Drive\UFSC_2017-01\Java como programar 10 edição
 pagina 264
-// Figura 8.10: Book.java
-// Declarando um tipo enum com um construtor e campos de instância explícitos
-// e métodos de acesso para esses campos*/
+// Figura 8.11: EnumTest.java
+// Testando o tipo enum Book.*/
 package Capitulo_8_Classes_e_objetos_um_exame_mais_profundo.Figura_8_10_Book_java;
 
 import java.util.EnumSet;
