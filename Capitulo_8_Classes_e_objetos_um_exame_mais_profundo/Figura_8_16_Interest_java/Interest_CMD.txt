@@ -1,0 +1,17 @@
+D:\Google Drive\exercicios_java_como_programar>javac  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_16_Interest_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar>java  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_16_Interest_java/Interest
+Year   Amount on deposit
+   1         R$ 1.050,00
+   2         R$ 1.102,50
+   3         R$ 1.157,62
+   4         R$ 1.215,51
+   5         R$ 1.276,28
+   6         R$ 1.340,10
+   7         R$ 1.407,10
+   8         R$ 1.477,46
+   9         R$ 1.551,33
+  10         R$ 1.628,89
+
+D:\Google Drive\exercicios_java_como_programar>
+
