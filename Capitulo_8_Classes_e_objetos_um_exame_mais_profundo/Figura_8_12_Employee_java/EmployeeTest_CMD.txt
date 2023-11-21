@@ -1,0 +1,27 @@
+ Pasta de D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_12_Employee_java
+
+20/11/2023  22:10    <DIR>          .
+20/11/2023  21:41    <DIR>          ..
+20/11/2023  22:06               945 Employee.class
+20/11/2023  22:05             1.051 Employee.java
+20/11/2023  22:06             1.154 EmployeeTest.class
+20/11/2023  22:05             1.032 EmployeeTest.java
+20/11/2023  22:10           916.274 Java como programar 10 edição - Pag 266 - Employee_java.mht
+               5 arquivo(s)        920.456 bytes
+               2 pasta(s)   351.669.616.640 bytes disponíveis
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_12_Employee_java>java Emp
+loyeeTest
+Employees before instantiation: 0
+Employee constructor: Susan Baker; count= 1
+Employee constructor: Bob Blue; count= 2
+
+Employess after instantiation:
+via e1.getCount(): 2
+via e2.getCount(): 2
+via Employee.getCount(): 2
+
+Employee 1: Susan Baker
+Employee 2: Bob Blue
+
+D:\Google Drive\exercicios_java_como_programar\Capitulo_8_Classes_e_objetos_um_exame_mais_profundo\Figura_8_12_Employee_java>  
