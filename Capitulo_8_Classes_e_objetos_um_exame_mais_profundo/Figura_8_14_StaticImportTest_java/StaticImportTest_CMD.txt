@@ -1,0 +1,11 @@
+
+D:\Google Drive\exercicios_java_como_programar>javac  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_14_StaticImportTest_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar>java  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_14_StaticImportTest_java/StaticImportTest
+sqrt(900.0) = 30,0
+ceil(-9.8) = -9,0
+E = 2,718282
+PI = 3,141593
+
+D:\Google Drive\exercicios_java_como_programar>
+
