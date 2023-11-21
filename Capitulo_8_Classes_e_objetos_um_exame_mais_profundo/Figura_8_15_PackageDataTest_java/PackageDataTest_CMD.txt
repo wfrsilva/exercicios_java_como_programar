@@ -1,0 +1,12 @@
+
+D:\Google Drive\exercicios_java_como_programar>javac  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_15_PackageDataTest_java/*.java
+
+D:\Google Drive\exercicios_java_como_programar>java  Capitulo_8_Classes_e_objetos_um_exame_mais_profundo/Figura_8_15_PackageDataTest_java/PackageDataTest
+After instatiation:
+ number: 0; string: Hello
+
+After changing values:
+ number: 77; string: Goodbye
+
+D:\Google Drive\exercicios_java_como_programar>
+
