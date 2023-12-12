@@ -14,9 +14,10 @@ O comprimento de cada array deve ser um número aleatório entre 1 e 5.
 O construtor da classe DrawPanel preencherá cada um dos arrays com formas de posição aleatória, tamanho, cor e preenchimento.
 
 Além disso, modifique todas as três classes de forma a incluir o seguinte:
+
 a) Um construtor sem argumentos que configura as coordenadas da forma como 0, a cor da forma como Color.BLACK e a propriedade preenchida como false (MyRectangle e MyOval somente).
-b) Métodos set para as variáveis de instância em cada classe. Os métodos que configuram um valor de coordenada devem verificar se
-o argumento é maior ou igual a zero antes de configurar a coordenada — se não for, devem configurar a coordenada como zero. O
-construtor deve chamar os métodos set em vez de inicializar as variáveis locais diretamente.
+
+b) Métodos set para as variáveis de instância em cada classe. Os métodos que configuram um valor de coordenada devem verificar se o argumento é maior ou igual a zero antes de configurar a coordenada — se não for, devem configurar a coordenada como zero. O construtor deve chamar os métodos set em vez de inicializar as variáveis locais diretamente.
+
 c) Os métodos get para as variáveis de instância em cada classe. O método draw deve referenciar as coordenadas pelos métodos get em
 vez de acessá-los diretamente.
